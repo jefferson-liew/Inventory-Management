@@ -1,14 +1,27 @@
 # Vue2 Project with Django as Backend
+## • Purpose
+Develop a web application that enables the quantity of stock to be updated in real time across all the different ecommerce platforms. This project will be considered complete when the quantity of stock can be updated in real time. This project supports E-Commerce vendors to ensure a smooth online shopping for consumers.
+
+## • Contributors
+- Jefferson Liew (Backend / Frontend connection to Backend)
+- Richie Ang (Frontend)
+- Marcus Teh (Frontend)
+- Ryan (Documentation)
+- Xin Kai (Documentation)
+- Lyndon (Documentation
 
 ## Project setup
 ```
 npm install
 ```
 
-## We need to use virtualenvironment as there are python packages involved.
+## Use virtual environment for python packages involved.
 ### 1. Download virtual environment
+```
+https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
+```
 
-### 2. activate virtual environment 
+### 2. Activate virtual environment 
 
 ### For MacOS
 
@@ -21,13 +34,13 @@ source <name of virtualenv>/bin/activate
 https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv-win.html
 ```
 
-### 3. installing all packages by reading and installing line by line in requirements.txt
+### 3. Installing all packages in requirements.txt
 
 ```
 pip install -r requirements.txt
 ```
 
-### 4. running the django server
+### 4. Running the django server
 
 ```
 python api/manage.py runserver
