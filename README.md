@@ -1,4 +1,4 @@
-# Vue2 Project with Django as Backend
+# Vue2 Project with Django as Backend (Read Documentation.pdf)
 ## Purpose
 Develop a web application that enables the quantity of stock to be updated in real time across all the different ecommerce platforms. This project will be considered complete when the quantity of stock can be updated in real time. This project supports E-Commerce vendors to ensure a smooth online shopping for consumers.
 
