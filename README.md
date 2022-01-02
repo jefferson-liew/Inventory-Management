@@ -19,14 +19,6 @@ Develop a web application that enables the quantity of stock to be updated in re
 
 
 
-## Contributors
-- Jefferson Liew (Backend / Frontend connection to Backend / Brand Owner of Daisy Dreams)
-- Richie Ang (Frontend)
-- Marcus Teh (Frontend)
-- Ryan (Documentation)
-- Xin Kai (Documentation)
-- Lyndon (Documentation
-
 ## Project setup
 ```
 npm install
@@ -86,3 +78,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```
 pip freeze > requirements.txt
 ```
+
+## Contributors
+- Jefferson Liew (Backend / Frontend connection to Backend / Brand Owner of Daisy Dreams)
+- Richie Ang (Frontend)
+- Marcus Teh (Frontend)
+- Ryan (Documentation)
+- Xin Kai (Documentation)
+- Lyndon (Documentation
