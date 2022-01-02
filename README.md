@@ -1,6 +1,23 @@
-# Vue2 Project with Django as Backend (Read Documentation.pdf)
+# Vue2 Project with Django as Backend
 ## Purpose
 Develop a web application that enables the quantity of stock to be updated in real time across all the different ecommerce platforms. This project will be considered complete when the quantity of stock can be updated in real time. This project supports E-Commerce vendors to ensure a smooth online shopping for consumers.
+
+### Log in / Sign up
+![Documentation](https://user-images.githubusercontent.com/71698104/147869668-9d520f99-5705-4d31-9e41-7eaa27a0b897.jpg)
+
+### Connecting to Shopify Platform
+![Documentation-1](https://user-images.githubusercontent.com/71698104/147869670-6234a6fa-a363-4cd5-80d5-519df96141c7.jpg)
+
+### Downloading CSV file of products & Log out
+![Documentation-2](https://user-images.githubusercontent.com/71698104/147869672-b0dd42e4-5c59-49db-932f-e50106979426.jpg)
+
+### Previewing Products (Product images owned by Daisy Dreams)
+![Documentation-3](https://user-images.githubusercontent.com/71698104/147869673-0b65d40b-c2e0-4d80-a1c4-d434a21b61e8.jpg)
+
+### Searching with Vue & Deleting Products
+![Documentation-4](https://user-images.githubusercontent.com/71698104/147869741-93a0cdae-3806-4318-ac88-08e4e2b187b1.jpg)
+
+
 
 ## Contributors
 - Jefferson Liew (Backend / Frontend connection to Backend)
