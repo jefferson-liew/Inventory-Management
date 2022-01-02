@@ -3,7 +3,7 @@
 Develop a web application that enables the quantity of stock to be updated in real time across all the different ecommerce platforms. This project will be considered complete when the quantity of stock can be updated in real time. This project supports E-Commerce vendors to ensure a smooth online shopping for consumers.
 
 ### 1. Log in / Sign up
-![Documentation](https://user-images.githubusercontent.com/71698104/147869668-9d520f99-5705-4d31-9e41-7eaa27a0b897.jpg)
+![Documentation](https://user-images.githubusercontent.com/71698104/147869812-ce63aeb1-e33f-43bf-a0dd-9762a60b1faa.jpg)
 
 ### 2. Connecting to Shopify Platform
 ![Documentation-1](https://user-images.githubusercontent.com/71698104/147869670-6234a6fa-a363-4cd5-80d5-519df96141c7.jpg)
